@@ -22,4 +22,4 @@ The script generates matrices like the Information Content Matrix (ICM), which i
 ### 2. Motif Visualization
 The following sequence logo shows the information expressed in the ICM matrix, and helps to visualize the consensus sequence:
 
-![Motif Logo](.motif_logo.png)
+![Motif Logo](./motif_logo.png)
