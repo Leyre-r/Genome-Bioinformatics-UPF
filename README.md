@@ -3,12 +3,12 @@ This repository contains the projects developed during the Principles of Genome 
 
 ## Featured Projects
 
-### 1. Genomic Sequence Motif Analysis (PWM & ICM) (./Motif-Analysis-PWM)
+### 1. [Genomic Sequence Motif Analysis (PWM & ICM)](./Motif-Analysis-PWM)
 - **Goal:** Implementation of a pipeline to characterize genomic motifs from scratch.
 - **Key Features:** Calculation of Position Weight Matrices (PWM), Position Probability Matrices (PPM) with pseudocounts, and Information Content (ICM) using Shannon Entropy.
 - **Language:** R.
 
-### 2. Evolutionary Rate Analysis (dN/dS)
+### 2. [Evolutionary Rate Analysis (dN/dS)]
 - **Goal:** Study of selective pressure on the **Olig2** gene across different species.
 - **Key Features:** Data cleaning and integration of Ensembl datasets, comparative analysis between Human, Chimpanzee, and Mouse evolutionary rate, and visualization of evolutionary distributions using `ggplot2` and `patchwork`.
 - **Language:** R (dplyr, ggplot2).
