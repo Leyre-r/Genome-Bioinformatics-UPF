@@ -1,9 +1,9 @@
-# Genome-Bioinformatics
+# Genome-Bioinformatics-UPF
 This repository contains the projects developed during the Principles of Genome Bioinformatics course (MSc Bioinformatics for Health Sciences, UPF/UB). This course focused on the study of protein and DNA sequence analysis.
 
 ## Featured Projects
 
-### 1. Genomic Sequence Motif Analysis (PWM & ICM)
+### 1. Genomic Sequence Motif Analysis (PWM & ICM) (./Motif-Analysis-PWM)
 - **Goal:** Implementation of a pipeline to characterize genomic motifs from scratch.
 - **Key Features:** Calculation of Position Weight Matrices (PWM), Position Probability Matrices (PPM) with pseudocounts, and Information Content (ICM) using Shannon Entropy.
 - **Language:** R.
