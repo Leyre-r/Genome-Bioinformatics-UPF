@@ -19,7 +19,7 @@ The script generates matrices like the Information Content Matrix (ICM), which i
 | **G** | 0.0000000 | 0.0000000 | 1.2743811 | 0 | 0 | 0.0000000 | 0.0000000 | 0.1173402 |
 | **T** | 0.1820544 | 1.2743811 | 0.1820544 | 0 | 0 | 0.1820544 | 0.2971805 | 0.7040414 |
 
-### 2. Motif Visualization
+### Motif Visualization
 The following sequence logo shows the information expressed in the ICM matrix, and helps to visualize the consensus sequence:
 
 ![Motif Logo](./motif_logo.png)
