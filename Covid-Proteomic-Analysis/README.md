@@ -3,6 +3,12 @@
 This project explores the relationship between serum proteomic profiles and disease severity in COVID-19 patients. 
 Using dimensionality reduction and clustering techniques, the analysis identifies key protein biomarkers that distinguish severe cases from healthy controls.
 
+### Data Source
+The dataset used in this analysis is derived from the following publication:
+* Title: Proteomic and Metabolomic Characterization of COVID-19 Patient Sera.
+* Journal: Cell, 2020.
+* Link: [Full article on ScienceDirect.](https://www.sciencedirect.com/science/article/pii/S0092867420306279)
+
 ### Overview
 1. **Data Cleaning & Normalization:** preprocessing of clinical metadata and proteomic expression matrices (85% fill-rate filtering).
 2. **Clustering** based on patients' serum proteomic profiles: to assess whether these clusters are associated with disease severity (even though severity information is not used during clustering).
