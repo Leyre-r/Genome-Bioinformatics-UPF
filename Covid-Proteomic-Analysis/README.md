@@ -22,6 +22,7 @@ Observation: Clear separation between Healthy Controls and Severe patients based
 
 
 **Differential Expression Heatmap**
+
 ![heatmap-covid-19-proteomic-data](data/results/heatmap-covid-19-proteomic-data.png)
 
 Top 12 differentially expressed proteins across clinical groups, annotated by Age and Gender.
