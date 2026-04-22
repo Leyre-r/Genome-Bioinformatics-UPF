@@ -10,10 +10,13 @@ The dataset used in this analysis is derived from the following publication:
 * Link: [Full article on ScienceDirect.](https://www.sciencedirect.com/science/article/pii/S0092867420306279)
 
 ### Overview
+#### Proteomic_Data_Mining.R
 1. **Data Cleaning & Normalization:** preprocessing of clinical metadata and proteomic expression matrices (85% fill-rate filtering).
 2. **Clustering** based on patients' serum proteomic profiles: to assess whether these clusters are associated with disease severity (even though severity information is not used during clustering).
 3. **Multi-Dimensional Analysis:** Comparison of PCA, t-SNE, and UMAP to visualize patient clustering.
 4. **Differential Expression:** Identification of proteins with padj​<0.05 and ∣log2​(FC)∣>1.
+#### Proteomic_Random_Forest.RMD
+1. **Random Forest Model**: to distinguish between non-Severe and Severe COVID-19 patients.
 
 ### Visual Results
 **PCA on the proteomic dataset**
